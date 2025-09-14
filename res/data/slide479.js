@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(478, '<div id="spr0_13a6d2a"><div id="spr1_13a6d2a" class="kern slide"><img id="img1_13a6d2a" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_13a6d2a" class="kern slide"><div id="spr3_13a6d2a" style="left:58px;top:218px;"><img id="img0_13a6d2a" src="data/img2659.png" width="846" height="146" alt="Chemical properties of alkynes\
+ (part II)"/></div></div></div>', '{"s":[]}');})();

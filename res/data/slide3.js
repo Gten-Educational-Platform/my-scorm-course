@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(2, '<div id="spr0_12a904f"><div id="spr1_12a904f" class="kern slide"><img id="img1_12a904f" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_12a904f" class="kern slide"><div id="spr3_12a904f" style="left:81px;top:137px;"><img id="img0_12a904f" src="data/img1.png" width="786" height="286" alt="BRIEF STUDY OF HYDROCARBONS \
+&amp;\
+ INTRODUCTION OF ALKANES "/></div></div></div>', '{"s":[]}');})();

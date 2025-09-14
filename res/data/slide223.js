@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(222, '<div id="spr0_1314172"><div id="spr1_1314172" class="kern slide"><img id="img1_1314172" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1314172" class="kern slide"><div id="spr3_1314172" style="left:70px;top:212px;"><img id="img0_1314172" src="data/img1724.png" width="784" height="159" alt="PREPARATION OF ALKENE \
+(PART 3) "/></div></div></div>', '{"s":[]}');})();

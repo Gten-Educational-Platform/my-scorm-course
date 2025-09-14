@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(165, '<div id="spr0_12f4fb4"><div id="spr1_12f4fb4" class="kern slide"><img id="img1_12f4fb4" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_12f4fb4" class="kern slide"><div id="spr3_12f4fb4" style="left:84px;top:134px;"><img id="img0_12f4fb4" src="data/img1385.png" width="758" height="176" alt="Introduction \
+&amp;\
+ electronic  structures   of alkenes"/></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(395, '<div id="spr0_1373f42"><div id="spr1_1373f42" class="kern slide"><img id="img1_1373f42" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1373f42" class="kern slide"><div id="spr3_1373f42" style="left:91px;top:196px;"><img id="img0_1373f42" src="data/img2575.png" width="759" height="159" alt="STRUCTURE OF ETHYNES \
+            (ACETYLENE) "/></div></div></div>', '{"s":[]}');})();

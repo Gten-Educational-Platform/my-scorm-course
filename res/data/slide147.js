@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(146, '<div id="spr0_12ebba2"><div id="spr1_12ebba2" class="kern slide"><img id="img1_12ebba2" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_12ebba2" class="kern slide"><div id="spr3_12ebba2" style="left:105px;top:148px;"><img id="img0_12ebba2" src="data/img1378.png" width="770" height="245" alt="CHEMICAL \
+PROPERTIES OF ALKANES \
+(PART-III)"/></div></div></div>', '{"s":[]}');})();

@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(55, '<div id="spr0_12be948"><div id="spr1_12be948" class="kern slide"><img id="img1_12be948" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_12be948" class="kern slide"><div id="spr3_12be948" style="left:179px;top:178px;"><img id="img0_12be948" src="data/img78.png" width="534" height="245" alt="PREPARATION OF ALKANES \
+(PART-I)"/></div></div></div>', '{"s":[]}');})();

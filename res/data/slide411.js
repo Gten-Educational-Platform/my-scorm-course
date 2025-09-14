@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(410, '<div id="spr0_137ea19"><div id="spr1_137ea19" class="kern slide"><img id="img1_137ea19" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_137ea19" class="kern slide"><div id="spr3_137ea19" style="left:217px;top:179px;"><img id="img0_137ea19" src="data/img2592.png" width="520" height="234" alt="NOMENCLATURE \
+&amp;\
+ ISOMERISM"/></div></div></div>', '{"s":[]}');})();

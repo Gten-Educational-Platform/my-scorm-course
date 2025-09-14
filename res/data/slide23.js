@@ -1,0 +1,2 @@
+(function(){var loadHandler=window['sl_{7018F593-9484-415A-8BFE-AFC1868ACFEF}'];loadHandler&&loadHandler(22, '<div id="spr0_12b1790"><div id="spr1_12b1790" class="kern slide"><img id="img1_12b1790" src="data/img0.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_12b1790" class="kern slide"><div id="spr3_12b1790" style="left:95px;top:192px;"><img id="img0_12b1790" src="data/img42.png" width="748" height="150" alt="Classification of \
+carbon atoms in alkanes"/></div></div></div>', '{"s":[]}');})();
